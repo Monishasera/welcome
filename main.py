@@ -1,1 +1,2 @@
-print(3+9)
+print('welcome to oscar')
+print(18*90)
